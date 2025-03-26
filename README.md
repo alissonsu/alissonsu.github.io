@@ -3,7 +3,6 @@
 </head>
 <body bgcolor=#FFFF8B>
 <font color=#FF6A00>
-<img src="blob:chrome-untrusted://media-app/6f1184dc-b062-45e4-8229-fac8247c5aef">
 <h1>Pudim a melhor sobremesa do pais</h1>
 <h2>pudim de ser feito de forma calma e bem feita</h2>
 <h3>Pudim</h3>
