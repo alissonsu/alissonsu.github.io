@@ -1,8 +1,8 @@
 <html>
 <head>
 </head>
-<body bgcolor=#C2963A>
-<font color=#FFFF56>
+<body bgcolor=#FFFF8B>
+<font color=#FF6A00>
 <h1>Pudim a melhor sobremesa do pais</h1>
 <h2>pudim de ser feito de forma calma e bem feita</h2>
 <h3>Pudim</h3>
