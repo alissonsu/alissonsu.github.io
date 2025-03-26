@@ -1,7 +1,7 @@
 <html>
 <head>
 </head>
-<body bgcolor=red>
+<body bgcolor=#C2963A>
 <h1>Pudim a melhor sobremesa do pais</h1>
 <h2>pudim de ser feito de forma calma e bem feita</h2>
 <h3>Pudim</h3>
