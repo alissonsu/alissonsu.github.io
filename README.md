@@ -1,4 +1,5 @@
 <html>
+<head></head>
 <body bgcolor="#FFFF8B">
 <font color="#FF6A00">
 <h1>Pudim a melhor sobremesa do pais</h1>
