@@ -1,3 +1,4 @@
+
 <html>
 <head>
 <title>Receita de PUDIM</title>
@@ -10,19 +11,9 @@ alt="pngtree-cream-chocolate-caramel-liquid-melts-and-drips-png-image_3982377-re
 <h2>pudim deve ser feito de forma calma e bem feita</h2>
 
 <h3>Pudim</h3>
-<table>
-<TR>
-<TD>
 <h4>1 caixinha de leite Condensado</h4>
-</TD>
-<TD>
 <h4>1 caixinha de leite (medida da caixinha de condensado)</h4>
-</TD>
-<TD>
 <h4>3 ovos inteiros</h4>
-</TD>
-</TR>
-</table>
   
 <p></p><h3>Calda</h3><p></p>
 <h4>1 xícara (chá) de açúcar</h4>
@@ -36,5 +27,21 @@ alt="pngtree-cream-chocolate-caramel-liquid-melts-and-drips-png-image_3982377-re
 Coloque a calda em uma forma redonda e coloque a mistura do pudim
 Asse em forno médio em banho maria por aproximadamente 40 a 80 minutos (dependendo do forno)
 Deixe esfriar para desenformar e sirva</h4>
+<p></p><h3>Motivos para fazer um pudim</h3>
+<h4>
+<table>
+<TR>
+<TD> 
+Molinho
+</TD>
+<TD>
+Docinho
+</TD>
+<TD>
+Gostosinho
+</TD>
+</TR>
+</table>
+</h4>
 </font></body>
 </html>
