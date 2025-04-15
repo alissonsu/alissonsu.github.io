@@ -1,5 +1,6 @@
 <html>
 <head>
+<title>Receita de PUDIM</title>
 </head>
 <body bgcolor="#FFFF8B">
 <img src="https://github.com/alissonsu/alissonsu.github.io/blob/main/pngtree-cream-chocolate-caramel-liquid-melts-and-drips-png-image_3982377-removebg-preview.png?raw=true" 
@@ -9,9 +10,11 @@ alt="pngtree-cream-chocolate-caramel-liquid-melts-and-drips-png-image_3982377-re
 <h2>pudim deve ser feito de forma calma e bem feita</h2>
 
 <h3>Pudim</h3>
+<table>
 <h4>1 caixinha de leite Condensado</h4>
 <h4>1 caixinha de leite (medida da caixinha de condensado)</h4>
 <h4>3 ovos inteiros</h4>
+</table>
   
 <p></p><h3>Calda</h3><p></p>
 <h4>1 xícara (chá) de açúcar</h4>
