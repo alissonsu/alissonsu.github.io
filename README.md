@@ -1,4 +1,3 @@
-
 <html>
 <head>
 <title>Receita de PUDIM</title>
@@ -30,16 +29,12 @@ Deixe esfriar para desenformar e sirva</h4>
 <p></p><h3>Motivos para fazer um pudim</h3>
 <h4>
 <table>
+<table widths="30;60" cellpadding="1.5" border="1" bordercolor="#FFFF8B">
+<font color="#FF6A00">
 <TR>
-<TD> 
-Molinho
-</TD>
-<TD>
-Docinho
-</TD>
-<TD>
-Gostosinho
-</TD>
+<TD> Molinho </TD>
+<TD> Docinho </TD>
+<TD> Gostosinho </TD>
 </TR>
 </table>
 </h4>
