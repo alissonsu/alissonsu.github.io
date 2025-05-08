@@ -3,7 +3,19 @@
 <title>Receita de PUDIM</title>
 <style>
  h1{
-  font-size:100px;
+  font-size:80px;
+   color:"#FFFF8B";
+ }
+ h2{
+  font-size:40px;
+   color:"#FFFF8B";
+ }
+ h3{
+  font-size:35px;
+   color:"#FFFF8B";
+ }
+h4{
+  font-size:25px;
    color:"#FFFF8B";
  }
 </style>
@@ -13,7 +25,7 @@
 alt="pngtree-cream-chocolate-caramel-liquid-melts-and-drips-png-image_3982377-removebg-preview.png"width='1450' height='250'/>
 <font color="#FF6A00">
 <h1>Pudim a melhor sobremesa do pais</h1>
-<h2>pudim deve ser feito de forma calma e bem feita</h2>
+<h2>Pudim deve ser feito de forma calma e bem feita</h2>
 
 <h3>Pudim</h3>
 <h4>1 caixinha de leite Condensado</h4>
