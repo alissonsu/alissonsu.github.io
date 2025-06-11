@@ -2,9 +2,17 @@
 <head>
 <title>Receita de PUDIM</title>
 <style>
+ a {
+  color:orange;
+}
+ a:hover {
+  color:#6F4E37;
+  text-decorantion:underline;
+}
  h1{
   font-size:80px;
    color:"#FFFF8B";
+   text-shadow:2px 2px 5px orange;
  }
  h2{
   font-size:40px;
