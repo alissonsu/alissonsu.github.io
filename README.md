@@ -1,7 +1,24 @@
 <html>
 <head>
+<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Receita de PUDIM</title>
 <style>
+.colorful-text {
+            font-size: 3rem;
+            font-weight: bold;
+            animation: colorChange 3s infinite;
+        }
+        @keyframes colorChange {
+            0% { color: brown; }
+            25% { color: white; }
+            50% { color: orange; }
+            75% { color: red; }
+            100% { color: pink; }
+        }
+        .colorful-text:hover {
+            animation-play-state: paused;
+        }
  a {
   color:orange;
 }
@@ -39,7 +56,10 @@ table, th, td {
 <img src="https://github.com/alissonsu/alissonsu.github.io/blob/main/pngtree-cream-chocolate-caramel-liquid-melts-and-drips-png-image_3982377-removebg-preview.png?raw=true" 
 alt="pngtree-cream-chocolate-caramel-liquid-melts-and-drips-png-image_3982377-removebg-preview.png"width='1450' height='250'/>
 <font color="#FF6A00">
-<h1>Pudim a melhor sobremesa do pais</h1>
+<div class="colorful-text">
+    Informações extremamente importantes e confidenciais!!!
+    </div>
+<h1>Pudim a melhor sobremesa do país</h1>
 <header>
 <h4>
    O pudim é uma sobremesa clássica da culinária brasileira, caracterizada por sua textura cremosa e sabor doce. Feito geralmente com leite condensado, ovos, açúcar e leite, é assado em 
