@@ -4,25 +4,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Receita de PUDIM</title>
 <style>
-ºlinks{
+.links{
   display:flex;
   justify-content: space-around;
+  border: 2px solid;
+  width: 70%;
+  border-color:"#FF6A00";
 }
-.colorful-text {
-            font-size: 3rem;
-            font-weight: bold;
-            animation: colorChange 3s infinite;
-        }
-        @keyframes colorChange {
-            0% { color: brown; }
-            25% { color: white; }
-            50% { color: orange; }
-            75% { color: red; }
-            100% { color: pink; }
-        }
-        .colorful-text:hover {
-            animation-play-state: paused;
-        }
  a {
   color:orange;
 }
@@ -54,16 +42,32 @@ table, th, td {
  border-color:"#FF6A00";
  color:orange;
 }
+.colorful-text {
+            font-size: 3rem;
+            font-weight: bold;
+            animation: colorChange 3s infinite;
+        }
+        @keyframes colorChange {
+            0% { color: brown; }
+            25% { color: white; }
+            50% { color: orange; }
+            75% { color: red; }
+            100% { color: pink; }
+        }
+        .colorful-text:hover {
+            animation-play-state: paused;
+        }
 </style>
 </head>
 <body bgcolor="#FFFF8B">
 <img src="https://github.com/alissonsu/alissonsu.github.io/blob/main/pngtree-cream-chocolate-caramel-liquid-melts-and-drips-png-image_3982377-removebg-preview.png?raw=true" 
 alt="pngtree-cream-chocolate-caramel-liquid-melts-and-drips-png-image_3982377-removebg-preview.png"width='1450' height='250'/>
 <font color="#FF6A00">
-<div class="links">
 <div class="colorful-text">
     Informações extremamente importantes e confidenciais!!!
+</div>
 <h2>Outras receitas que você pode gostar</h2>
+<div class="links">
 <div>
 <a href="https://www.youtube.com/watch?v=2nl2gLz0bok">Brigadeiro cremoso</a>
 <a href="https://www.youtube.com/watch?v=Udj4y3-xf7k">Doce de leite em barra</a>
@@ -116,7 +120,7 @@ Deixe esfriar para desenformar e sirva</h4>
 <footer>
 <h4>O pudim é uma das sobremesas mais amadas do Brasil, oferecendo conforto e sabor em cada colherada. Sua simplicidade esconde uma perfeição 
 que encanta gerações, sendo sempre a escolha certa para qualquer ocasião especial ou até mesmo para adoçar o dia a dia</h4>
-</footer>
+</footer> 
+<img src="https://i.pinimg.com/originals/de/7c/e3/de7ce3c999e8c10d969701a9d9044090.gif"/>
 </font></body>
 </html>
-<img src="https://i.pinimg.com/originals/de/7c/e3/de7ce3c999e8c10d969701a9d9044090.gif"/>
