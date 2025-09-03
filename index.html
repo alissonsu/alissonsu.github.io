@@ -7,10 +7,22 @@
 .links{
   display:flex;
   justify-content: space-around;
-  border: 2px solid;
-  width: 70%;
-  border-color:"#FF6A00";
 }
+.colorful-text {
+        font-size: 3rem;
+        font-weight: bold;
+        animation: colorChange 3s infinite;
+        }
+        @keyframes colorChange {
+            0% { color: brown; }
+            25% { color: white; }
+            50% { color: orange; }
+            75% { color: red; }
+            100% { color: pink; }
+        }
+        .colorful-text:hover {
+        animation-play-state: paused;
+        }
  a {
   color:orange;
 }
@@ -42,21 +54,6 @@ table, th, td {
  border-color:"#FF6A00";
  color:orange;
 }
-.colorful-text {
-            font-size: 3rem;
-            font-weight: bold;
-            animation: colorChange 3s infinite;
-        }
-        @keyframes colorChange {
-            0% { color: brown; }
-            25% { color: white; }
-            50% { color: orange; }
-            75% { color: red; }
-            100% { color: pink; }
-        }
-        .colorful-text:hover {
-            animation-play-state: paused;
-        }
 </style>
 </head>
 <body bgcolor="#FFFF8B">
