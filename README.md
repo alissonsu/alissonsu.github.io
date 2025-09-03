@@ -5,12 +5,25 @@
 <title>Receita de PUDIM</title>
 <style>
 .links{
+  border: 4px solid #8B5742;
   display:flex;
   justify-content: space-around;
-  border: 2px solid;
-  width: 70%;
-  border-color:"#FF6A00";
 }
+.colorful-text {
+        font-size: 3rem;
+        font-weight: bold;
+        animation: colorChange 3s infinite;
+        }
+        @keyframes colorChange {
+            0% { color: brown; }
+            25% { color: white; }
+            50% { color: orange; }
+            75% { color: red; }
+            100% { color: pink; }
+        }
+        .colorful-text:hover {
+        animation-play-state: paused;
+        }
  a {
   color:orange;
 }
@@ -42,21 +55,6 @@ table, th, td {
  border-color:"#FF6A00";
  color:orange;
 }
-.colorful-text {
-            font-size: 3rem;
-            font-weight: bold;
-            animation: colorChange 3s infinite;
-        }
-        @keyframes colorChange {
-            0% { color: brown; }
-            25% { color: white; }
-            50% { color: orange; }
-            75% { color: red; }
-            100% { color: pink; }
-        }
-        .colorful-text:hover {
-            animation-play-state: paused;
-        }
 </style>
 </head>
 <body bgcolor="#FFFF8B">
@@ -68,9 +66,10 @@ alt="pngtree-cream-chocolate-caramel-liquid-melts-and-drips-png-image_3982377-re
 </div>
 <h2>Outras receitas que você pode gostar</h2>
 <div class="links">
-<div>
+<h4>
 <a href="https://www.youtube.com/watch?v=2nl2gLz0bok">Brigadeiro cremoso</a>
 <a href="https://www.youtube.com/watch?v=Udj4y3-xf7k">Doce de leite em barra</a>
+</h4>
 </div>
 <h1>Pudim a melhor sobremesa do país</h1>
 <header>
