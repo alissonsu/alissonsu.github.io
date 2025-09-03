@@ -1,13 +1,14 @@
-<html>
+html>
 <head>
 <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Receita de PUDIM</title>
 <style>
 .links{
-  border: 4px solid #8B5742;
   display:flex;
   justify-content: space-around;
+  border: 4px solid;
+  border-color:"#8B5742";
 }
 .colorful-text {
         font-size: 3rem;
