@@ -4,6 +4,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Receita de PUDIM</title>
 <style>
+ºlinks{
+  display:flex;
+  justify-content: space-around;
+}
 .colorful-text {
             font-size: 3rem;
             font-weight: bold;
@@ -56,9 +60,14 @@ table, th, td {
 <img src="https://github.com/alissonsu/alissonsu.github.io/blob/main/pngtree-cream-chocolate-caramel-liquid-melts-and-drips-png-image_3982377-removebg-preview.png?raw=true" 
 alt="pngtree-cream-chocolate-caramel-liquid-melts-and-drips-png-image_3982377-removebg-preview.png"width='1450' height='250'/>
 <font color="#FF6A00">
+<div class="links">
 <div class="colorful-text">
     Informações extremamente importantes e confidenciais!!!
-    </div>
+<h2>Outras receitas que você pode gostar</h2>
+<div>
+<a href="https://www.youtube.com/watch?v=2nl2gLz0bok">Brigadeiro cremoso</a>
+<a href="https://www.youtube.com/watch?v=Udj4y3-xf7k">Doce de leite em barra</a>
+</div>
 <h1>Pudim a melhor sobremesa do país</h1>
 <header>
 <h4>
