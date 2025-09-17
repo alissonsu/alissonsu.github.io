@@ -1,14 +1,19 @@
-html>
+<html>
 <head>
 <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Receita de PUDIM</title>
 <style>
 .links{
+  height: 20px;
+  align-items: flex-start;
+  flex-wrap: nowrap;
   display:flex;
-  justify-content: space-around;
+  justify-content: space-evenly;
   border: 4px solid;
   border-color:"#8B5742";
+  font-size:25px;
+   color:"#FFFF8B";
 }
 .colorful-text {
         font-size: 3rem;
@@ -67,10 +72,11 @@ alt="pngtree-cream-chocolate-caramel-liquid-melts-and-drips-png-image_3982377-re
 </div>
 <h2>Outras receitas que você pode gostar</h2>
 <div class="links">
-<h4>
 <a href="https://www.youtube.com/watch?v=2nl2gLz0bok">Brigadeiro cremoso</a>
 <a href="https://www.youtube.com/watch?v=Udj4y3-xf7k">Doce de leite em barra</a>
-</h4>
+<a href="https://www.youtube.com/watch?v=z6_AJkCUEJA">Cocada de leite condensado</a>
+<a href="https://www.youtube.com/watch?v=AoaTFhq2AN8">Paçoca</a>
+<a href="https://www.youtube.com/watch?v=geA8An4cNA4">Goibada</a>
 </div>
 <h1>Pudim a melhor sobremesa do país</h1>
 <header>
