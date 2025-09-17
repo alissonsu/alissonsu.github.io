@@ -5,8 +5,6 @@
 <title>Receita de PUDIM</title>
 <style>
 .links{
-  height: 20px;
-  align-items: flex-start;
   flex-wrap: nowrap;
   display:flex;
   justify-content: space-evenly;
